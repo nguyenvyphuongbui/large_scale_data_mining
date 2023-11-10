@@ -3,7 +3,7 @@ Task 1: Association mining in Java
 A bank has conducted a marketing campaign via phone calls to promote their new products including a term-deposit product. After the campaign, the bank wants to analyse the data collected in the campaign in order to get a better understanding to their customers. 
 1. Dataset
 Download the datasets campaign.arff, campaign_no.arff, and campaign_yes.arff from the Canvas. campaign.arff is the entire dataset 
-collected in the campaign which consists of 44,209 records. Each record in the dataset is about one customer described by 11 attributes. After this marketing campaign, a customer could subscribe the term-deposit product or not, indicated by attribute ‘subscribed’. This attribute divides customers into two classes, i.e., yes-class and noclass. campaign_no.arff, and campaign_yes.arff are two subsets of the entire dataset containing customers in each of the two classes, respectively. 
+collected in the campaign which consists of 44,209 records. Each record in the dataset is about one customer described by 11 attributes. After this marketing campaign, a customer could subscribe the term-deposit product or not, indicated by attribute ‘subscribed’. This attribute divides customers into two classes, i.e., yes-class and no-class. campaign_no.arff, and campaign_yes.arff are two subsets of the entire dataset containing customers in each of the two classes, respectively. 
 To help you understand the data, the following table provides you with the description to each of the attributes. 
 Attribute Description
 age Customer age
