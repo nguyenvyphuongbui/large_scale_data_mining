@@ -32,8 +32,8 @@ public class Task1_Question1 {
             AlgoFPGrowth algo_FPGrowth = new AlgoFPGrowth();
 
             // Set a maximum size for patterns
-            algo_Apri.setMaximumPatternLength(5);
-            algo_FPGrowth.setMaximumPatternLength(5);
+            algo_Apri.setMaximumPatternLength(3);
+            algo_FPGrowth.setMaximumPatternLength(3);
 
             // Run algorithms to generate patterns
             algo_Apri.runAlgorithm(minsup, input_converted, output_fp_Apriori);
